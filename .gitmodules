@@ -1,0 +1,6 @@
+[submodule "4nec2-bin"]
+	path = 4nec2-bin
+	url = ssh://aur@aur.archlinux.org/4nec2-bin.git
+[submodule "lightburn-bin"]
+	path = lightburn-bin
+	url = ssh://aur@aur.archlinux.org/lightburn-bin.git
