@@ -14,7 +14,7 @@ You're welcome to open an issue here or send an email to [aur-pgks@kanp.ai](mail
 so unless bugs are found in the PKGBUILD then this is unlikely to get any changes.
 
 ### [`lightburn-bin`][pkg-lightburn-bin]: layout, editing, and control software for laser cutters 
-[lightburn](https://lightburnsoftware.com) is propreitary software.
+[lightburn](https://lightburnsoftware.com) is proprietary software.
 It doesn't really get updated very frequently, but new versions can be found at the
 [releases](https://github.com/LightBurnSoftware/deployment/releases)
 tab of their deployment repo, so should there be an update please open an issue
