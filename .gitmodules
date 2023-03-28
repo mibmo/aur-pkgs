@@ -4,3 +4,6 @@
 [submodule "lightburn-bin"]
 	path = lightburn-bin
 	url = ssh://aur@aur.archlinux.org/lightburn-bin.git
+[submodule "yetris"]
+	path = yetris
+	url = ssh://aur@aur.archlinux.org/yetris.git
