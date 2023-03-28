@@ -4,9 +4,9 @@
 [pkg-yetris]: https://aur.archlinux.org/packages/yetris
 
 # AUR packages
-These are the [Arch User Repository](https://aur.archlinux.org) packages [I](aur-user)  maintain.
+These are the [Arch User Repository](https://aur.archlinux.org) packages that I ([mibu](aur-user)) maintain.
 For any issues, please leave a comment on the relevant package.
-You're welcome to open an issue here or send an email to [aur-pgks@kanp.ai](mailto://aur-pkgs@kanp.ai) too if it's urgent (like version bumps or bug fixes).
+You're welcome to open an issue here or send an email to [aur-pgks@kanp.ai](mailto://aur-pkgs@kanp.ai) if it's urgent (like version bumps or breaking bugs).
 
 # Packages
 ### [`4nec-2bin`][pkg-4nec2-bin]: antenna modeler and optimizer
